@@ -1,0 +1,9 @@
+[submodule "hci-esp32-led"]
+	path = hci-esp32-led
+	url = https://github.com/stariluz/hci-esp32-led
+[submodule "hci-project-1"]
+	path = hci-project-1
+	url = https://github.com/stariluz/uach-hci-project-1
+[submodule "hci-project-2"]
+	path = hci-project-2
+	url = https://github.com/stariluz/uach-hci-project-2
